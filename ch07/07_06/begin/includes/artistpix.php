@@ -1,0 +1,9 @@
+<li><img src="<?= $siteroot; ?>/images/art/Barot_Bellingham_tn.jpg" alt="Art from Barot Bellingham"></li>
+<li><img src="<?= $siteroot; ?>/images/art/Constance_Smith_tn.jpg" alt="Art from Constance Smith"></li>
+<li><img src="<?= $siteroot; ?>/images/art/Hassum_Harrod_tn.jpg" alt="Art from Hassum Harrod"></li>
+<li><img src="<?= $siteroot; ?>/images/art/Hillary_Goldwynn_tn.jpg" alt="Art from Hillary Goldwynn"></li>
+<li><img src="<?= $siteroot; ?>/images/art/Jennifer_Jerome_tn.jpg" alt="Art from Jennifer Jerome"></li>
+<li><img src="<?= $siteroot; ?>/images/art/Jonathan_Ferrar_tn.jpg" alt="Art from Jonathan Ferrar"></li>
+<li><img src="<?= $siteroot; ?>/images/art/LaVonne_LaRue_tn.jpg" alt="Art from LaVonne LaRue"></li>
+<li><img src="<?= $siteroot; ?>/images/art/Riley_Rewington_tn.jpg" alt="Art from Riley Rewington"></li>
+<li><img src="<?= $siteroot; ?>/images/art/Xhou_Ta_tn.jpg" alt="Art from Xhou Ta"></li>
